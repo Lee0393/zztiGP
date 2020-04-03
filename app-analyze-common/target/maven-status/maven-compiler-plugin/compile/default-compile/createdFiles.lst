@@ -1,0 +1,4 @@
+com\automan\app\common\Constants.class
+com\automan\app\util\GeoUtil.class
+com\automan\app\common\GeoInfo.class
+com\automan\app\util\PropertiesUtil.class

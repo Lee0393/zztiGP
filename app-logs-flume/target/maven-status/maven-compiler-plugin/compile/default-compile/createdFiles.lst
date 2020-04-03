@@ -1,0 +1,4 @@
+com\automan\app\flume\interceptor\LogCollInterceptor$Constants.class
+com\automan\app\flume\interceptor\LogCollInterceptor.class
+com\automan\app\flume\interceptor\LogCollInterceptor$1.class
+com\automan\app\flume\interceptor\LogCollInterceptor$Builder.class

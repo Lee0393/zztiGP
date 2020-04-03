@@ -1,0 +1,6 @@
+com\automan\applogs\udf\MonthBeginUDF.class
+com\automan\applogs\udf\DayBeginUDF.class
+com\automan\applogs\udf\DayEndUDF.class
+com\automan\applogs\udf\DateUtil.class
+com\automan\applogs\udf\FormatTimeUDF.class
+com\automan\applogs\udf\WeekBeginUDF.class
