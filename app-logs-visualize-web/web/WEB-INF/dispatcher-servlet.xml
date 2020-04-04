@@ -33,7 +33,7 @@
     <dubbo:application name="consumer_app"/>
 
     <dubbo:registry address="zookeeper://huolan:2181"/>
-    <dubbo:consumer timeout="5000"/>
+    <dubbo:consumer timeout="50000"/>
 
     <dubbo:reference id="statService"
                      interface="com.automan.applogs.visualize.service.StatService"/>

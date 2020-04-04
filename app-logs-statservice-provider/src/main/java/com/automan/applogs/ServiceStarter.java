@@ -4,7 +4,7 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 /**
- * Created by Administrator on 2017/6/29.
+ * 2020/04/03
  */
 public class ServiceStarter {
 	public static void main(String[] args) throws InterruptedException {

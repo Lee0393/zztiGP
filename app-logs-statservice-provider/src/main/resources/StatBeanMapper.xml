@@ -22,7 +22,7 @@
         ) t
     </select>
     <!--哪款app当前周新增用户数 -->
-    <select id="selectDayNewusersInThisWeek" resultType="rm_StatBean">
+    <select id="selectDayNewusersInThisWeek" resultMap="rm_StatBean">
 	  select formattime(t.mintime,'yyyy/MM/dd') stdate , count(*) stcount
 	  from (
 		select deviceid,min(createdatms) mintime

@@ -13,4 +13,5 @@ public interface StatService extends BaseService<StatBean> {
 	public Long todayNewUsers(String appid) ;
 
 	public List<StatBean> findDayNewUsersInWeek(String appid);
+
 }

@@ -1,9 +1,11 @@
 package com.automan.applogs.visualize.domain;
 
+import java.io.Serializable;
+
 /**
  * 统计信息
  */
-public class StatBean {
+public class StatBean implements Serializable {
 	//统计日期
 	private String date ;
 	//统计数量
